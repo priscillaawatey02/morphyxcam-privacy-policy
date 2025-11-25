@@ -9,3 +9,13 @@ All processing occurs locally on your device.
 
 2. Camera Access: MorphyxCam requests permission to access your device’s camera only so it can display and transform the live video feed.
 Camera data is never sent to any server. Camera data is never stored. Camera data is never shared with third parties. All image processing happens locally in the browser. You may revoke camera permission at any time through your browser settings.
+
+3. MorphyxCam does not:
+Track users
+Use analytics
+Store photos
+Upload images
+Log usage behavior
+Use cookies
+Communicate with external servers
+The extension works completely offline after installation.
