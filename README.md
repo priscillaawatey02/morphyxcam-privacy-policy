@@ -6,7 +6,5 @@ MorphyxCam is a browser-based photo tool that applies real-time WebGL filters to
 
 1. Information We Collect
 
-MorphyxCam does not collect, store, transmit, or share any personal information.
-
-The extension operates entirely within the user’s browser.
+MorphyxCam does not collect, store, transmit, or share any personal information. The extension operates entirely within the user’s browser.
 All processing occurs locally on your device.
