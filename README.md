@@ -8,5 +8,4 @@ MorphyxCam is a browser-based photo tool that applies real-time WebGL filters to
 All processing occurs locally on your device.
 
 2. Camera Access: MorphyxCam requests permission to access your device’s camera only so it can display and transform the live video feed.
-
 Camera data is never sent to any server. Camera data is never stored. Camera data is never shared with third parties. All image processing happens locally in the browser. You may revoke camera permission at any time through your browser settings.
